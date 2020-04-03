@@ -1,0 +1,11 @@
+_model: page
+---
+title: Components
+---
+body:
+
+This website uses the following components: 
+
+ * Main static site generation by [Lektor](https://www.getlektor.com/)
+ * Deployment by Cloud Build
+ * Compute by Cloud Run
