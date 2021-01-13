@@ -9,7 +9,7 @@ certifi==2019.11.28       # via requests
 cffi==1.14.0              # via cryptography
 chardet==3.0.4            # via requests
 click==7.1.1              # via flask, lektor
-cryptography==2.9         # via pyopenssl, requests
+cryptography==3.2         # via pyopenssl, requests
 exifread==2.1.2           # via lektor
 flask==1.1.1              # via lektor
 idna==2.9                 # via requests
